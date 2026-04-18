@@ -201,9 +201,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Pradeep-Polishetty&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=f97316&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=58a6ff"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pradeep-Polishetty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 
 <br/><br/>
 
