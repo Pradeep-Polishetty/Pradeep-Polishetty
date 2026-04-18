@@ -1,29 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0ea5e9,60:a855f7,100:f97316&height=200&section=header&text=PRADEEP%20POLISHETTY&fontSize=50&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Full-Stack%20Dev%20%2F%2F%20ML%20Engineer%20%2F%2F%20VNRVJIET%20%2727&descAlignY=78&descColor=e2e8f0&descSize=15&stroke=58a6ff&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=PRADEEP%20POLISHETTY&fontSize=52&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Dev%20%2F%2F%20ML%20Engineer%20%2F%2F%20VNRVJIET%20%2727&descSize=16&descAlignY=65&descColor=a78bfa&stroke=7c3aed&strokeWidth=1.5"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=Building+AI+that+actually+remembers+%F0%9F%A7%A0;98.9%25+ML+Accuracy+%E2%9C%93+No+Cap.;Full-Stack+%7C+RAG+%7C+NLI+%7C+Groq+%F0%9F%94%A5;Always+Shipping.+Never+Stopping.+%F0%9F%9A%80" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Hey+there!+I'm+Pradeep+%F0%9F%91%8B;Building+AI+that+actually+remembers+%F0%9F%A7%A0;98.9%25+ML+Accuracy+%E2%9C%93+No+Cap.;Full-Stack+%7C+RAG+%7C+NLI+%7C+Groq+%F0%9F%94%A5;Always+Shipping.+Never+Stopping.+%F0%9F%9A%80" />
-
-<br/><br/>
-
 <a href="https://linkedin.com/in/pradeep-polishetty">
   <img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Polishetty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a>&nbsp;
 <a href="mailto:pradeeppolishetty2005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-pradeeppolishetty2005-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a>&nbsp;
 <a href="https://github.com/Pradeep-Polishetty">
   <img src="https://img.shields.io/badge/GitHub-Pradeep--Polishetty-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a>&nbsp;
 <a href="https://leetcode.com">
   <img src="https://img.shields.io/badge/LeetCode-1624%20%7C%20Top%2020%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pradeep-Polishetty&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Pradeep-Polishetty&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
