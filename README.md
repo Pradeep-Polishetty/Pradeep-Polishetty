@@ -221,33 +221,7 @@
 
 <div align="center">
 
-> ⚙️ Add this GitHub Action to `.github/workflows/snake.yml` to generate the animated snake:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Pradeep-Polishetty
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-> Once deployed, replace this section with:
-> `![snake](https://github.com/Pradeep-Polishetty/Pradeep-Polishetty/blob/output/github-contribution-grid-snake-dark.svg)`
+![snake](https://github.com/Pradeep-Polishetty/Pradeep-Polishetty/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
